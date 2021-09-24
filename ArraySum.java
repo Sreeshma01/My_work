@@ -2,6 +2,7 @@ class ArraySum
 {
 public static void main(String args[])
 {
+System.out.println("Array");
  int array[];
 array=new int[4];
 array[0]=10;
